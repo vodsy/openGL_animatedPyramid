@@ -1,10 +1,3 @@
-/*
- * practiceActivity9_JonathanHandy.cpp
- *
- *  Created on: Oct 19, 2020
- *      Author: 1573734_snhu
- */
-
 // Header inclusions
 #include <iostream>
 #include <GL/glew.h>
@@ -17,7 +10,7 @@
 
 using namespace std; // Standard namespace
 
-#define WINDOW_TITLE "Modern OpenGL" // Window title macro
+#define WINDOW_TITLE "Animated Pyramid" // Window title macro
 
 // Shader program macro
 #ifndef GLSL
